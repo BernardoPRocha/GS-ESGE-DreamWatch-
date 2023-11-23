@@ -22,7 +22,7 @@ Além disso, o projeto se integra a um servidor MQTT, permitindo que os dados do
    - Monitore a saída serial para obter informações sobre o início e o fim do sono, bem como dados do sono.
 
 ## Estrutura do Repositório
-- `main.ino`: Contém os códigos-fonte do projeto.
+- `/main.ino`: Contém os códigos-fonte do projeto.
 
 ## Simulação no Wokwi
 Para visualizar uma simulação do projeto, [clique aqui](https://wokwi.com/projects/381479333854213121).
